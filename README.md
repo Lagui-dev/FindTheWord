@@ -12,6 +12,8 @@ Each letter guessed in its correct place appears in blue, a wrongly placed lette
 Chaque lettre devinée à sa bonne place apparaît en bleu, une bonne lettre mal placée en rouge.
 </div>
 
+![screenshot](/Documentations/screenshot-0.0.1.png)
+
 ## How to play
 <div>
 After compilation, copy the data folder into the executable folder<br />
