@@ -11,6 +11,7 @@ Deviner le fameux mot de six lettres, en six essais maximum.
 Each letter guessed in its correct place appears in blue, a wrongly placed letter in red.<br />
 Chaque lettre devinée à sa bonne place apparaît en bleu, une bonne lettre mal placée en rouge.
 </div>
+<br />
 
 ![screenshot](/documentations/screenshot-0.0.1.jpg)
 
